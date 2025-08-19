@@ -1057,3 +1057,14 @@ http://170.39.192.130:2095/56962725726playtv2/090824play/322730
 http://170.39.192.130:2095/56962725726playtv2/090824play/322731
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/pt_sporttv_3.png" group-title="sports",(OFF) SPORTTV 3
 http://170.39.192.130:2095/56962725726playtv2/090824play/322733
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 1" tvg-logo="http://live.detodotvplay.com:8080/images/nulSsJO1HjtWmXnGvVQLKVVsT9SBFMZ2egBEu1e7ANjec5xXfqRvHlG1BRCE7KN8jhTtbE1jwDvq0Ep2-pccvQWN1sjXBDxP8xutJ8AvUok.png" group-title="EVENTOS PPV MUNDIAL",ES | DAZN 1
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94464
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 2 HD" tvg-logo="http://live.detodotvplay.com:8080/images/kS9zs_PQ3NKANBoyhKJl-WV_7LqI9qQN_ZMv5_Aiqdk3ymMyiQq-eRUmhwraSKO1n5tFgnMOtKNDn1an7O419E2PCIR7yQ-YveZjdVSVSmo.png" group-title="EVENTOS PPV MUNDIAL",ES | DAZN 2 HD
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94465
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN F1" tvg-logo="https://logos.xbots.com.mx/307521.png" group-title="EVENTOS PPV MUNDIAL",ES | DAZN F1
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94466
+#EXTINF:-1 tvg-id="" tvg-name="ES | Dazn La Liga  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="EVENTOS PPV MUNDIAL",ES | Dazn La Liga  HD
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94467
+
